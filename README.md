@@ -82,4 +82,4 @@ Base URL: http://localhost:5000/api
 ![Empty E-mail Error](./screenshots/bos_email.png)
 
 ### 8. Invalid E-mail Error
-![Invalid E-mail Error](./screenshots/bos_email.png)
+![Invalid E-mail Error](./screenshots/hatali_email.png)
